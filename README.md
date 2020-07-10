@@ -1,10 +1,10 @@
-### Hello there 👋
+## Hello there 👋
 
-- My CV, publications is available on my website at [**https://dominiquemakowski.github.io/**](https://dominiquemakowski.github.io/)
+👉 My CV, publications is available on my website at [**https://dominiquemakowski.github.io/**](https://dominiquemakowski.github.io/)
 
 I'm mostly involved in projects related to statistics and R (through the [**easystats project**](https://github.com/easystats)) and neuroscience and neuropsychology. Here's some of the things I've worked on:
 
-#### Statistics
+### Statistics
 
 - [**report**](https://github.com/easystats/report): 📜 🎉 Automated reporting of objects in R
 - [**bayestestR**](https://github.com/easystats/bayestestR): 👻 Utilities for analyzing Bayesian models and posterior distributions
@@ -18,12 +18,12 @@ I'm mostly involved in projects related to statistics and R (through the [**easy
 - [**psycho**](https://github.com/neuropsychology/psycho.R): An R package for experimental psychologists
 - [**Psycho.jl**](https://github.com/neuropsychology/Psycho.jl): An attempt of implementing *psycho* in Julia
 
-#### Neuroscience
+### Neuroscience
 
 - [**NeuroKit2**](https://github.com/neuropsychology/NeuroKit): The Python Toolbox for Neurophysiological Signal Processing
 - [**TruScanEEGpy**](https://github.com/neuropsychology/TruScanEEGpy): Utility functions to work with Deymed's TruScan EEG system
 
-#### Neuropsychology
+### Neuropsychology
 
 - [**Neuropsydia**](https://github.com/neuropsychology/Neuropsydia.py): A Python Module for Creating Experiments, Tasks and Questionnaires.
 - [**CognitiveControl**](https://github.com/neuropsychology/CognitiveControl): A neuropsychological task measuring different aspects of cognitive control (processing speed, inhibition, conflict resolution...)
@@ -31,7 +31,7 @@ I'm mostly involved in projects related to statistics and R (through the [**easy
 - [**PatientAssessmentApp**](https://github.com/neuropsychology/PatientAssessmentApp): Easy Neuropsychological Assessment of Patients Scores and Deficits
 
 
-#### Misc
+### Other
 
 - [**popularipy**](https://github.com/DominiqueMakowski/popularipy): A Python package to access popularity metrics for your package
 - [**Pyllusion**](https://github.com/DominiqueMakowski/Pyllusion): A Python Module for Generating Visual Illusions
