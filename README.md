@@ -1,8 +1,11 @@
 ## Hello there 👋
 
+
+I'm mostly involved in projects related to statistics and R (through the [**easystats project**](https://github.com/easystats)) and neuroscience and neuropsychology (see the [**neuropsychology open org**](https://github.com/neuropsychology)).
+
 👉 My CV, publications is available on my website at [**https://dominiquemakowski.github.io/**](https://dominiquemakowski.github.io/)
 
-I'm mostly involved in projects related to statistics and R (through the [**easystats project**](https://github.com/easystats)) and neuroscience and neuropsychology. Here's some of the things I've worked on:
+Here's some of the projects I've worked on:
 
 ### Statistics
 
