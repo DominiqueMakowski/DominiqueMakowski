@@ -1,11 +1,11 @@
 ## Hello there 👋
 
 
-I'm mostly involved in projects related to statistics and R (through the [**easystats project**](https://github.com/easystats)) and neuroscience and neuropsychology (see the [**neuropsychology open org**](https://github.com/neuropsychology)).
+I'm mostly involved in projects related to statistics and R (through the [**easystats project**](https://github.com/easystats)) and neuroscience and neuropsychology (see the [**neuropsychology**](https://github.com/neuropsychology) open org).
 
 👉 My CV, publications is available on my website at [**https://dominiquemakowski.github.io/**](https://dominiquemakowski.github.io/)
 
-Here's some of the projects I've worked on:
+Here's some of the projects I'm working on:
 
 ### Statistics
 
@@ -23,7 +23,7 @@ Here's some of the projects I've worked on:
 
 ### Neuroscience
 
-- [**NeuroKit2**](https://github.com/neuropsychology/NeuroKit): The Python Toolbox for Neurophysiological Signal Processing
+- [**NeuroKit2**](https://github.com/neuropsychology/NeuroKit): 🧠 The Python Toolbox for Neurophysiological Signal Processing
 - [**TruScanEEGpy**](https://github.com/neuropsychology/TruScanEEGpy): Utility functions to work with Deymed's TruScan EEG system
 
 ### Neuropsychology
@@ -38,6 +38,9 @@ Here's some of the projects I've worked on:
 
 - [**popularipy**](https://github.com/DominiqueMakowski/popularipy): A Python package to access popularity metrics for your package
 - [**Pyllusion**](https://github.com/DominiqueMakowski/Pyllusion): A Python Module for Generating Visual Illusions
+
+If these open-source tools helped you and you would like to contribute, you can consider [sponsoring](https://github.com/sponsors/DominiqueMakowski) me. I'll use it to get drinks 🍹 for teammates so that we can continue coding while staying hydrated.
+
 <!--
 **DominiqueMakowski/DominiqueMakowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
