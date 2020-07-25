@@ -8,7 +8,7 @@ I'm mostly involved in projects related to statistics and R (through the [**easy
 
 My CV, publications and all are available on my website:
 
-<p align="center">👉👉 <a href="https://dominiquemakowski.github.io/"><b>https://dominiquemakowski.github.io/</b></a> 👈👈 </p>
+<p align="center">👉👉 <a href="https://dominiquemakowski.github.io/"><b>dominiquemakowski.github.io/</b></a> 👈👈 </p>
 
 Here's some of the projects I'm working on:
 
