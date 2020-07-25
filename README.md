@@ -1,9 +1,14 @@
-## Hello there 👋
+# Hello there, I'm Dom 👋
 
+[![CV](https://img.shields.io/badge/CV-D._Makowski-purple.svg?colorB=9C27B0&style=flat-square)](https://dominiquemakowski.github.io/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Dom_Makowski?label=%20%40Dom_Makowski&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/Dom_Makowski)
+![GitHub followers](https://img.shields.io/github/followers/DominiqueMakowski?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)
 
-I'm mostly involved in projects related to statistics and R (through the [**easystats project**](https://github.com/easystats)) and neuroscience and neuropsychology (see the [**neuropsychology**](https://github.com/neuropsychology) open org).
+I'm mostly involved in projects related to statistics and R (through the [**easystats project**](https://github.com/easystats)) and neuroscience (see the [**neuropsychology**](https://github.com/neuropsychology) open org).
 
-👉 My CV, publications is available on my website at [**https://dominiquemakowski.github.io/**](https://dominiquemakowski.github.io/)
+My CV, publications and all are available on my website:
+
+<p align="center">👉👉 <a href="https://dominiquemakowski.github.io/"><b>https://dominiquemakowski.github.io/</b></a> 👈👈 </p>
 
 Here's some of the projects I'm working on:
 
@@ -39,7 +44,10 @@ Here's some of the projects I'm working on:
 - [**popularipy**](https://github.com/DominiqueMakowski/popularipy): A Python package to access popularity metrics for your package
 - [**Pyllusion**](https://github.com/DominiqueMakowski/Pyllusion): A Python Module for Generating Visual Illusions
 
-If these open-source tools helped you and you would like to contribute, you can consider [sponsoring](https://github.com/sponsors/DominiqueMakowski) me. I'll use it to get drinks 🍹 for teammates so that we can continue coding while staying hydrated.
+If these open-source tools helped you and you would like to contribute, you can consider [**sponsoring**](https://github.com/sponsors/DominiqueMakowski) me. I'll use the money to get drinks 🍹 for me and my teammates so that we can continue coding while staying hydrated 💪
+
+[![Dom's github stats](https://github-readme-stats.vercel.app/api?username=DominiqueMakowski&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **DominiqueMakowski/DominiqueMakowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
