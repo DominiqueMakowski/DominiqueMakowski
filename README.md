@@ -1,8 +1,11 @@
 # Hello there, I'm Dom 👋
 
+[![GitHub followers](https://img.shields.io/github/followers/DominiqueMakowski?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)](https://github.com/login?return_to=%2FDominiqueMakowski)
 [![CV](https://img.shields.io/badge/CV-D._Makowski-purple.svg?colorB=9C27B0&style=flat-square)](https://dominiquemakowski.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dom_Makowski?label=%20%40Dom_Makowski&style=flat-square&labelColor=2196F3&logo=twitter&logoColor=white&colorB=0D47A1)](https://twitter.com/Dom_Makowski)
-![GitHub followers](https://img.shields.io/github/followers/DominiqueMakowski?label=Follow%20me&style=flat-square&logo=github&logoColor=white&colorB=4CAF50)
+[![Research gate](https://img.shields.io/badge/-Research%20Gate-green.svg?style=flat-square&logo=researchgate&logoColor=white&colorB=616161&labelColor=00BFA5)](https://www.researchgate.net/profile/Dominique_Makowski)
+
+
 
 I'm mostly involved in projects related to statistics and R (through the [**easystats project**](https://github.com/easystats)) and neuroscience (see the [**neuropsychology**](https://github.com/neuropsychology) open org).
 
