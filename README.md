@@ -7,13 +7,13 @@
 
 
 
-I'm mostly involved in projects related to statistics (through the [**easystats project**](https://github.com/easystats) for R) and neuroscience (see the [**neuropsychology**](https://github.com/neuropsychology) open org). Python and R are my go-to languages, but I'm keeping an eye on what could be the languages of tomorrow.
+I'm mostly involved in projects related to statistics (through the [**easystats project**](https://github.com/easystats/easystats) for R) and neuroscience (see the [**neuropsychology**](https://github.com/neuropsychology) open org). Python and R are my go-to languages, but I'm keeping an eye on what could be the languages of tomorrow (e.g., Julia).
 
 My CV, publications and all are available on my website:
 
 👉👉 <a href="https://dominiquemakowski.github.io/"><b>dominiquemakowski.github.io</b></a> 👈👈
 
-Here's some of the projects I'm working on:
+Here are some of the projects I'm working on:
 
 ### Statistics
 
