@@ -46,7 +46,7 @@ Here are some of the projects I'm working on:
 ### Other
 
 - [**popularipy**](https://github.com/DominiqueMakowski/popularipy): A Python package to access popularity metrics for your package
-- [**Mythpsychology**](hhttps://github.com/DominiqueMakowski/Mythpsychology): A review of existing relationship between myths and psychological concepts
+- [**Mythpsychology**](https://github.com/DominiqueMakowski/Mythpsychology): A review of existing relationship between myths and psychological concepts
 - [**Music**](https://github.com/DominiqueMakowski/Music): My arrangements and compositions (for Piano)
 - [**AntediluvianBlood**](https://github.com/DominiqueMakowski/AntediluvianBlood): The *Antediluvian Blood* mod for the PC game Crusader Kings 3
 
