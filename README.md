@@ -33,6 +33,7 @@ Here are some of the projects I'm working on:
 
 - [**NeuroKit2**](https://github.com/neuropsychology/NeuroKit): 🧠 The Python Toolbox for Neurophysiological Signal Processing
 - [**TruScanEEGpy**](https://github.com/neuropsychology/TruScanEEGpy): Utility functions to work with Deymed's TruScan EEG system
+- [**Pyllusion**](https://github.com/RealityBending/Pyllusion): A Python Module for Generating Visual Illusions
 
 ### Neuropsychology
 
@@ -45,8 +46,9 @@ Here are some of the projects I'm working on:
 ### Other
 
 - [**popularipy**](https://github.com/DominiqueMakowski/popularipy): A Python package to access popularity metrics for your package
-- [**Pyllusion**](https://github.com/RealityBending/Pyllusion): A Python Module for Generating Visual Illusions
+- [**Mythpsychology**](hhttps://github.com/DominiqueMakowski/Mythpsychology): A review of existing relationship between myths and psychological concepts
 - [**Music**](https://github.com/DominiqueMakowski/Music): My arrangements and compositions (for Piano)
+- [**AntediluvianBlood**](https://github.com/DominiqueMakowski/AntediluvianBlood): The *Antediluvian Blood* mod for the PC game Crusader Kings 3
 
 If these open-source tools helped you and you would like to contribute, you can consider [**sponsoring**](https://github.com/sponsors/DominiqueMakowski) me. I'll use the money to get drinks 🍹 for me and my teammates so that we can continue coding while staying hydrated 💪
 
