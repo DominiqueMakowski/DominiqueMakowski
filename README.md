@@ -13,7 +13,9 @@ My CV, publications and all are available on my website:
 
 👉👉 <a href="https://dominiquemakowski.github.io/"><b>dominiquemakowski.github.io</b></a> 👈👈
 
-Here are some of the projects I'm working on:
+---
+
+Here are some open-source projects I'm working on:
 
 ### Statistics
 
@@ -52,7 +54,7 @@ Here are some of the projects I'm working on:
 
 If these open-source tools helped you and you would like to contribute, you can consider [**sponsoring**](https://github.com/sponsors/DominiqueMakowski) me. I'll use the money to get drinks 🍹 for me and my teammates so that we can continue coding while staying hydrated 💪
 
-
+---
 
 ### Publications-related
 
