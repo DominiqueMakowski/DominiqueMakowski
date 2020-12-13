@@ -52,8 +52,14 @@ Here are some of the projects I'm working on:
 
 If these open-source tools helped you and you would like to contribute, you can consider [**sponsoring**](https://github.com/sponsors/DominiqueMakowski) me. I'll use the money to get drinks 🍹 for me and my teammates so that we can continue coding while staying hydrated 💪
 
-[![Dom's github stats](https://github-readme-stats.vercel.app/api?username=DominiqueMakowski&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
+
+### Publications-related
+
+Supplementary materials, open-access data and analysis scripts.
+
+- [Makowski, D., Pham, T., Lau, Z. J., Raine, A. & Chen, S. H. (under review). The Structure of Deception: Validation of the Lying Profile Questionnaire.](https://github.com/DominiqueMakowski/2020structure)
+- [Makowski, D., Sperduti, M., Nicolas, S., & Piolino, P. (2017). “Being there” and remembering it: Presence improves memory encoding. Consciousness and Cognition, 53, 194–202](https://github.com/DominiqueMakowski/2017being)
 
 <!--
 **DominiqueMakowski/DominiqueMakowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
