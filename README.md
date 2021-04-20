@@ -49,7 +49,10 @@ Here are some open-source projects I'm working on:
 
 - [**popularipy**](https://github.com/DominiqueMakowski/popularipy): A Python package to access popularity metrics for your package
 - [**Mythpsychology**](https://github.com/DominiqueMakowski/Mythpsychology): A review of existing relationship between myths and psychological concepts
+- [**tidyfamily**](https://github.com/DominiqueMakowski/tidyfamily): An R package to easily build and display genealogical trees using R
 - [**Music**](https://github.com/DominiqueMakowski/Music): My arrangements and compositions (for Piano)
+
+
 
 If these open-source tools helped you and you would like to contribute, you can consider [**sponsoring**](https://github.com/sponsors/DominiqueMakowski) me. I'll use the money to get drinks 🍹 for me and my teammates so that we can continue coding while staying hydrated 💪
 
