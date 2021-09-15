@@ -34,9 +34,10 @@ Here are some open-source projects I'm working on:
 ### Neuroscience
 
 - [**NeuroKit2**](https://github.com/neuropsychology/NeuroKit): 🧠 The Python Toolbox for Neurophysiological Signal Processing
+- [**Pyllusion**](https://github.com/RealityBending/Pyllusion): 🤯 A Python module for generating visual illusions
+- [**PyShaman**](https://github.com/RealityBending/PyShaman): 🧙‍♂️ A Python software for inducing altered states of consciousness
 - [**TruScanEEGpy**](https://github.com/neuropsychology/TruScanEEGpy): Utility functions to work with Deymed's TruScan EEG system
-- [**Pyllusion**](https://github.com/RealityBending/Pyllusion): A Python module for generating visual illusions
-- [**PyShaman**](https://github.com/RealityBending/PyShaman): A Python software for inducing altered states of consciousness
+
 ### Neuropsychology
 
 - [**Neuropsydia**](https://github.com/neuropsychology/Neuropsydia.py): A Python Module for Creating Experiments, Tasks and Questionnaires.
