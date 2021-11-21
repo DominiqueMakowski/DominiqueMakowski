@@ -45,13 +45,18 @@ Here are some open-source projects I'm working on:
 - [**RestingState**](https://github.com/neuropsychology/RestingState): Standard resting state protocol with brief mental state assessment
 - [**PatientAssessmentApp**](https://github.com/neuropsychology/PatientAssessmentApp): Easy Neuropsychological Assessment of Patients Scores and Deficits
 
+### Art
+
+- [**NeuropsyXart**](https://dominiquemakowski.github.io/NeuropsyXart): Body & Mind Art
+- [**OneAttractor**](https://github.com/DominiqueMakowski/OneAttractor): One chaotic attractor per day
+- [**Music**](https://github.com/DominiqueMakowski/Music): My arrangements and compositions (for Piano)
 
 ### Other
 
 - [**popularipy**](https://github.com/DominiqueMakowski/popularipy): A Python package to access popularity metrics for your package
 - [**Mythpsychology**](https://github.com/DominiqueMakowski/Mythpsychology): A review of existing relationship between myths and psychological concepts
 - [**tidyfamily**](https://github.com/DominiqueMakowski/tidyfamily): An R package to easily build and display genealogical trees using R
-- [**Music**](https://github.com/DominiqueMakowski/Music): My arrangements and compositions (for Piano)
+
 
 
 
