@@ -11,7 +11,7 @@ I'm mostly involved in projects related to statistics (through the [**easystats 
 
 My CV, publications and all are available on my website:
 
-👉👉 <a href="https://dominiquemakowski.github.io/"><b>dominiquemakowski.github.io</b></a> 👈👈
+👉 <a href="https://dominiquemakowski.github.io/"><b>dominiquemakowski.github.io</b></a> 👈
 
 ---
 
