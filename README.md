@@ -20,7 +20,7 @@ My CV, publications and all are available on my website:
 *2022/02/01* Check-out my discussion on the **Learning Bayesian Statistics** podcast:
 
 <a href="https://www.learnbayesstats.com/episode/55-neuropsychology-illusions-bending-reality-dominique-makowski"><img src='https://github.com/DominiqueMakowski/DominiqueMakowski.github.io/blob/master/content/post/2022-02-01-learnbayesstats/featured.png' align="left" height="200" /></a>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 
 
 ---
