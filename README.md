@@ -72,5 +72,4 @@ Here are some open-source projects I'm working on:
 
 If these open-source tools helped you and you would like to contribute, you can consider [**sponsoring**](https://github.com/sponsors/DominiqueMakowski) me. I'll use the money to get drinks 🍹 for me and my teammates so that we can continue coding while staying hydrated 💪
 
----
 
