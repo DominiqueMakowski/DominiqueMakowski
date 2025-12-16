@@ -42,6 +42,7 @@ Most of these projects were done without funding on my own freetime. If they hel
 - [x] [**NeuropsyXart**](https://dominiquemakowski.github.io/NeuropsyXart): Body & Mind Art
 - [x] [**OneAttractor**](https://github.com/DominiqueMakowski/OneAttractor): One chaotic attractor per day
 - [x] [**Music**](https://github.com/DominiqueMakowski/Music): My arrangements and compositions (for Piano)
+- [x] [**Dom's tabs**](https://dominiquemakowski.github.io/Music/tabs/): Web app for displaying chords and lyrics
 
 
 ## Utilities
