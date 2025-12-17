@@ -12,8 +12,10 @@ I'm mostly involved in projects related to data analysis and neuroscience. Pytho
 - My CV, publications and all are available on my website: <a href="https://dominiquemakowski.github.io/"><b>dominiquemakowski.github.io</b></a> 
 - My Lab website: <a href="https://realitybending.github.io/"><b>realitybending.github.io</b></a>
 
+> [!IMPORTANT]  
+> Thousands of hours go into creating and maintaining these open-source projects. Please consider a one-time [**sponsorship**](https://github.com/sponsors/DominiqueMakowski) to keep the development going.
 
-Most of these projects were done without funding on my own freetime. If they helped you, consider [**sponsoring**](https://github.com/sponsors/DominiqueMakowski) me with for instance a one time donation.
+
 
 
 ## Main projects
@@ -23,7 +25,7 @@ Most of these projects were done without funding on my own freetime. If they hel
 - [x] My [**teaching materials**](https://github.com/DominiqueMakowski/teaching) are open source
 
 
-## Data Analysis
+## Data analysis
 
 - [x] [**cogmod**](https://github.com/DominiqueMakowski/cogmod): An R package that implements cognitive computational models
 - [x] [**SequentialSamplingModels.jl**](https://github.com/itsdfish/SequentialSamplingModels.jl): Contributor to a Julia package for RT models
@@ -52,7 +54,7 @@ Most of these projects were done without funding on my own freetime. If they hel
 - [x] [**TruScanEEGpy**](https://github.com/neuropsychology/TruScanEEGpy): Utility functions to work with Deymed's TruScan EEG system
 
 
-## Random, Unifinished or Old
+## Random, unfinished or old
 
 - [x] [**Occultopedia**](https://github.com/DominiqueMakowski/Occultopedia): a database and webapp to explore occult movements and secret societies
 - [x] [**StatsAndSorcery**](https://github.com/DominiqueMakowski/StatsAndSorcery): a educational game to develop the intuition behind linear models
